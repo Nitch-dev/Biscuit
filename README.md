@@ -1,1 +1,1 @@
-Circuit Simulator
+Just another Circuit Simulator
